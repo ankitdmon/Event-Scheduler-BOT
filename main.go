@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/dragno99/event-scheduler-bot/bot"
-	"github.com/dragno99/event-scheduler-bot/config"
+	"github.com/ankitdmon/Event-Scheduler-BOT/bot"
+	"github.com/ankitdmon/Event-Scheduler-BOT/config"
 )
 
 func main() {

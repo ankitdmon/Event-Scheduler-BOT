@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dragno99/event-scheduler-bot/helper"
+	"github.com/ankitdmon/Event-Scheduler-BOT/helper"
 	"google.golang.org/api/calendar/v3"
 )
 

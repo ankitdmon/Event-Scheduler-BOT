@@ -6,10 +6,9 @@ import (
 	"strings"
 	"sync"
 
+	"github.com/ankitdmon/Event-Scheduler-BOT/config"
+	"github.com/ankitdmon/Event-Scheduler-BOT/scheduler"
 	"github.com/bwmarrin/discordgo"
-
-	"github.com/dragno99/event-scheduler-bot/config"
-	"github.com/dragno99/event-scheduler-bot/scheduler"
 )
 
 var BotID string
